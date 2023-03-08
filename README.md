@@ -1,4 +1,8 @@
-# CursoBigData
+# Curso Big Data y Arquitecturas Cloud A Coruña - Modulo 6 
+
+Profesor : Luis Sastre Rojas
+email: luis@lubay.es
+
 Ejercicios de practica en el curso de Big Data del programa actualizate
 Se utiliza en la semana 6 google colab para hacer las practicas con python
 

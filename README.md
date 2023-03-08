@@ -19,6 +19,18 @@ Bucles
 
 Creacion de cuenta en Github y subida de archivos de colab
 
+Copia de los archivos de actividades:
+
+Copia de M6_SpaceX_2_EDA.ipynb
+
+Esteban_M6_02_Condicionales.ipynb
+
+Esteban_M6_SpaceX_1_Data_Collection_Api.ipynb
+
+M6_SpaceX_1_Data_Collection_Api.ipynb
+
+M6_SpaceX_2_EDA.ipynb
+
 ## Dia 3
 
 04 - Programación Funcional

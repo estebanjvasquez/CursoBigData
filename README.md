@@ -35,6 +35,10 @@ M6_SpaceX_2_EDA.ipynb
 
 04 - Programación Funcional
 
+En la carpeta del dia 3 esta el notebook de Predicción mediante aprendizaje automático: Esteban - M5 - SPACEX2 - 6 - Machine Learning Predicciones y los datasets utilizados: dataset_one-hot y dataset_part_2
+
+## Dia 4
+
 05 - SparkSession Teoría
 
 06 - Primer RDD Teoría

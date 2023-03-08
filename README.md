@@ -1,6 +1,6 @@
 # Curso Big Data y Arquitecturas Cloud A Coruña - Modulo 6 
 
-Profesor : Luis Sastre Rojas
+Profesor : Luis Sastre Roca
 email: luis@lubay.es
 
 Ejercicios de practica en el curso de Big Data del programa actualizate

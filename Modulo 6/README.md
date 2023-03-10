@@ -6,6 +6,8 @@ email: luis@lubay.es
 Ejercicios de practica en el curso de Big Data del programa actualizate
 Se utiliza en la semana 6 google colab para hacer las practicas con python
 
+La carpeta modulo6-coruna-main contiene los archivos del profesor con practicas adicionales
+
 ## Dia 1
 01 - Python notebooks
 
@@ -51,4 +53,4 @@ En la carpeta del dia 3 esta el notebook de Predicción mediante aprendizaje aut
 
 07 - Transformaciones y Acciones sobre RDDs
 
-### La carpeta modulo6-coruna-main contiene los archivos del profesor con practicas adicionales
+

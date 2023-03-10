@@ -51,4 +51,4 @@ En la carpeta del dia 3 esta el notebook de Predicción mediante aprendizaje aut
 
 07 - Transformaciones y Acciones sobre RDDs
 
-# La carpeta modulo6-coruna-main contiene los archivos del profesor con practicas adicionales
+### La carpeta modulo6-coruna-main contiene los archivos del profesor con practicas adicionales
